@@ -1,12 +1,4 @@
 ## Hi there 👋
-#### Who am I? 🤔
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Python, Flutter, Web Programming ... Actually I want to learn everything :)
-- ⚡ I’m junior developer and Java lover <3
-
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=sercel23&color=red" alt="sercel23 :: Profile Stats"></a>
