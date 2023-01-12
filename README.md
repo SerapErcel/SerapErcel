@@ -7,10 +7,3 @@
 <a href="mailto:ercelserap@gmail.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-ercelserap@gmail.com-blue?style=flat&logo=gmail"></a>
 </p>
 
-
-<h2 align="center">Github stats :bar_chart:</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sercel23&show_icons=true&theme=synthwave" alt="sercel23 :: Profile Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sercel23&langs_count=10&theme=tokyonight&layout=compact" alt="sercel23 :: Top Langs" />
-</p>
